@@ -28,5 +28,7 @@ LinkedIn: www.linkedin.com/in/pablo-garza-79b2823b8
 
 💡 Cómo usar este repositorio 
 Descarga el archivo .xlsx o ábrelo en Google Sheets. 
+
 Navega a la hoja Dashboard para ver las visualizaciones interactivas.
+
 Consulta la hoja Resumen para leer las implicaciones estratégicas detalladas.
