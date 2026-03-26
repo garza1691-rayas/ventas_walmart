@@ -24,7 +24,8 @@ Se realizaron validaciones para asegurar la integridad de la información:Limpie
 Google Sheets / Excel: Procesamiento de datos, Tablas Dinámicas y Dashboards.Análisis Estadístico: Fórmulas lógicas y de búsqueda para la limpieza de datos.
 
 Autor: Pablo Garza
-LinkedIn: www.linkedin.com/in/pablo-garza-79b2823b8
+LinkedIn: www.linkedin.com/in/pablo-garza-79b2823b8                                         
+
 💡 Cómo usar este repositorio 
 Descarga el archivo .xlsx o ábrelo en Google Sheets. 
 Navega a la hoja Dashboard para ver las visualizaciones interactivas.
