@@ -6,21 +6,26 @@ Este proyecto consiste en un análisis exhaustivo de la salud comercial de las t
 El enfoque principal es evaluar la rentabilidad por metro cuadrado y la contribución de cada departamento al volumen total de ventas, permitiendo identificar áreas de oportunidad y eficiencia operativa.
 
 🎯 Objetivos Principales 
+
 Calcular la eficiencia de ventas por tamaño de tienda ($/m²).Determinar el porcentaje de participación de cada departamento en los ingresos globales.Identificar los departamentos con mayor y menor potencial de crecimiento.Proporcionar recomendaciones estratégicas basadas en datos (Data-Driven Decisions).
 
 🗂️ Estructura de los Datos 
+
 El análisis se dividió en varias etapas reflejadas en el libro de trabajo:Raw Data: Datos originales de ventas semanales, catálogo de departamentos y catálogo de tiendas (tipo y tamaño).
 Clean Data: Base de datos depurada con uniones (joins) entre catálogos y estandarización de fechas.
 Pivot & Dashboard: Procesamiento de indicadores clave y visualizaciones de los KPIs.
 Resumen C-F-I: Informe de Contexto, Hallazgos (Insights) e Implicaciones.
 
 🔍 Hallazgos Principales 
+
 (Insights)Departamento Estrella: El departamento de Despensa y Básicos es el más eficiente, con ventas de $652.81/m² y la mayor participación total (15.23%).Bajo Rendimiento: El departamento de Jardín y Vida al Aire Libre presenta el menor aporte con solo un 1.07%.Eficiencia: Se detectó una correlación directa entre el tipo de tienda y la densidad de ventas, permitiendo priorizar inversiones en inventario para los departamentos básicos.
 
 ✅ Calidad de los Datos (QA) 
+
 Se realizaron validaciones para asegurar la integridad de la información:Limpieza de registros sin departamento asignado.Identificación y manejo de valores nulos o negativos en ventas.Estandarización de nombres de departamentos para evitar duplicidad.
 
 🛠️ Herramientas Utilizadas 
+
 Google Sheets / Excel: Procesamiento de datos, Tablas Dinámicas y Dashboards.Análisis Estadístico: Fórmulas lógicas y de búsqueda para la limpieza de datos.
 
 Autor: Pablo Garza
