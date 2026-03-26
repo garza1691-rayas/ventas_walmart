@@ -27,6 +27,7 @@ Se realizaron validaciones para asegurar la integridad de la información:Limpie
 🛠️ Herramientas Utilizadas 
 
 Google Sheets / Excel: Procesamiento de datos, Tablas Dinámicas y Dashboards.
+
 Análisis Estadístico: Fórmulas lógicas y de búsqueda para la limpieza de datos.
 
 Autor: Pablo Garza
